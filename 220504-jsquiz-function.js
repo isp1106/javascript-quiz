@@ -4,9 +4,6 @@
 // 5, 순회하는 숫자의 두배값을 다 출력하고 싶음
 //  function iterate(max, action)
 
-
-
-
 function iterate(max, action) {
   for(let i = 0; i < max; i++){
     action(i);
