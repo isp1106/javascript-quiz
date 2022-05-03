@@ -4,8 +4,6 @@
 // 정직원은 시간당 10000원
 // 파트타임 직원은 시간당 8000원
 
-
-
 class Employee {
   constructor(name, department, hoursPerMonth, payRate){
     this.name = name;
